@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/start/static/css/main.6af21d41.css",
+    "main.js": "/start/static/js/main.fc5fcf9a.js",
+    "static/media/IMG_1547.JPG": "/start/static/media/IMG_1547.789ec6bbb36f15be8290.JPG",
+    "service-worker.js": "/start/service-worker.js",
+    "static/media/images.jpg": "/start/static/media/images.46b40c5e0c196d0ea3eb.jpg",
+    "static/media/roboto-latin-700-normal.woff2": "/start/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
+    "static/media/roboto-cyrillic-ext-700-normal.woff2": "/start/static/media/roboto-cyrillic-ext-700-normal.be4d02458ce53887dc37.woff2",
+    "static/media/roboto-latin-700-normal.woff": "/start/static/media/roboto-latin-700-normal.666d7a2f9db53cf52e2d.woff",
+    "static/media/roboto-cyrillic-ext-700-normal.woff": "/start/static/media/roboto-cyrillic-ext-700-normal.198a421f279162d59143.woff",
+    "static/media/roboto-latin-ext-700-normal.woff2": "/start/static/media/roboto-latin-ext-700-normal.ed67ad54b1a8f5d21150.woff2",
+    "static/media/roboto-latin-ext-700-normal.woff": "/start/static/media/roboto-latin-ext-700-normal.c1cc6d6fc851b3a2f79d.woff",
+    "static/media/roboto-cyrillic-700-normal.woff2": "/start/static/media/roboto-cyrillic-700-normal.d010f1f324e111a22e53.woff2",
+    "static/media/roboto-cyrillic-700-normal.woff": "/start/static/media/roboto-cyrillic-700-normal.f8a034d72aa6828199d4.woff",
+    "static/media/roboto-greek-700-normal.woff2": "/start/static/media/roboto-greek-700-normal.50e795c1345353b0e996.woff2",
+    "static/media/roboto-greek-700-normal.woff": "/start/static/media/roboto-greek-700-normal.a84892c56152037b3552.woff",
+    "static/media/roboto-vietnamese-700-normal.woff2": "/start/static/media/roboto-vietnamese-700-normal.3425a701027d0699e369.woff2",
+    "static/media/roboto-vietnamese-700-normal.woff": "/start/static/media/roboto-vietnamese-700-normal.4df79f684fcbca8386bd.woff",
+    "static/media/roboto-greek-ext-700-normal.woff2": "/start/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
+    "static/media/roboto-greek-ext-700-normal.woff": "/start/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
+    "index.html": "/start/index.html",
+    "main.6af21d41.css.map": "/start/static/css/main.6af21d41.css.map",
+    "main.fc5fcf9a.js.map": "/start/static/js/main.fc5fcf9a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6af21d41.css",
+    "static/js/main.fc5fcf9a.js"
+  ]
+}
